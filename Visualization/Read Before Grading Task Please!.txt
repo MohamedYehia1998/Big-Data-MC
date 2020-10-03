@@ -1,0 +1,6 @@
+I do not have access to a work/university email therefore I could access my report through the mobile app.
+
+To prove that I know how it works, nonetheless, I attached the .pbix file itself where I contstructed the mobile view.
+The rest is a matter of logging in via a work/university email and examining the report.
+
+I hope I do not lose points for this as this is an extenuating circumstance.
